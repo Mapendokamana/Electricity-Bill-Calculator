@@ -1,0 +1,11 @@
+C:\Users\923300\source\repos\Electricity Bill Calculator\Electricity Bill Calculator\bin\Debug\Electricity Bill Calculator.exe.config
+C:\Users\923300\source\repos\Electricity Bill Calculator\Electricity Bill Calculator\bin\Debug\Electricity Bill Calculator.exe
+C:\Users\923300\source\repos\Electricity Bill Calculator\Electricity Bill Calculator\bin\Debug\Electricity Bill Calculator.pdb
+C:\Users\923300\source\repos\Electricity Bill Calculator\Electricity Bill Calculator\obj\Debug\Electricity Bill Calculator.csproj.AssemblyReference.cache
+C:\Users\923300\source\repos\Electricity Bill Calculator\Electricity Bill Calculator\obj\Debug\Electricity Bill Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\923300\source\repos\Electricity Bill Calculator\Electricity Bill Calculator\obj\Debug\Electricity_Bill_Calculator.Form1.resources
+C:\Users\923300\source\repos\Electricity Bill Calculator\Electricity Bill Calculator\obj\Debug\Electricity_Bill_Calculator.Properties.Resources.resources
+C:\Users\923300\source\repos\Electricity Bill Calculator\Electricity Bill Calculator\obj\Debug\Electricity Bill Calculator.csproj.GenerateResource.cache
+C:\Users\923300\source\repos\Electricity Bill Calculator\Electricity Bill Calculator\obj\Debug\Electricity Bill Calculator.csproj.CoreCompileInputs.cache
+C:\Users\923300\source\repos\Electricity Bill Calculator\Electricity Bill Calculator\obj\Debug\Electricity Bill Calculator.exe
+C:\Users\923300\source\repos\Electricity Bill Calculator\Electricity Bill Calculator\obj\Debug\Electricity Bill Calculator.pdb
